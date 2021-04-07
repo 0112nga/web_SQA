@@ -1,0 +1,9 @@
+You should sign up by your real email, 
+so we can send link reset password for you 
+when you forget password or you need to change password.
+
+sample account:
+    username: nga12012000@gmail.com
+    password: 123456
+
+Note: you can access to our website by this account but you can not get reset password link
